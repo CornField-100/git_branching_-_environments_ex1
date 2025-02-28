@@ -1,0 +1,5 @@
+DB_NAME=releaseDB
+DB_USER=postgres
+DB_PASS=release_password
+DB_HOST=release-db.example.com
+PORT=4000
