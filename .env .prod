@@ -1,0 +1,5 @@
+DB_NAME=prodDB
+DB_USER=postgres
+DB_PASS=prod_secure_password
+DB_HOST=prod-db.example.com
+PORT=5000
